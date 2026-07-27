@@ -1,6 +1,6 @@
 # data-analytics-portfolio
 
-Hi, I'm Harshita Mishra, a Data Analyst passionate about transforming data into actionable insights.
+Hi, I'm Harshita Mishra, a Data Analyst passionate about transforming data into actionable insights. Currently building end to end data analytics project using excel , power bi, sql and python.
 
 ## Skills
 - SQL
