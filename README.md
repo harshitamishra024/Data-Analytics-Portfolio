@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# data-analytics-portfolio
 
 Hi, I'm Harshita Mishra, a Data Analyst passionate about transforming data into actionable insights.
 
